@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599332353724",
+    "project_id": "t-sunlight-365204",
+    "storage_bucket": "t-sunlight-365204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599332353724:android:1a7d5528ef5c81867102b9",
+        "android_client_info": {
+          "package_name": "com.example.tatto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599332353724-aglh6p6i79oh31s00cc3t8b0bf9gjc7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbpdb28t2icMffbiNykfaJKVv00VwzEx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599332353724-aglh6p6i79oh31s00cc3t8b0bf9gjc7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
